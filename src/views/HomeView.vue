@@ -1,7 +1,7 @@
 <template>
   <div class="home">
     
-    <img alt="Vue logo" src="../assets/logo.png">
+    <img alt="Vue logo" src="../assets/barcode-vector-icon-png_253293.jpg">
    
   </div>
 </template>
